@@ -15,5 +15,6 @@ requests
 pypdf
 python-dotenv
 groq
-torch --index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 sentence-transformers
