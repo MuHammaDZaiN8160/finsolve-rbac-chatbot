@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API = "http://localhost:8000"
+API = "https://web-production-e0024.up.railway.app"
 
 st.set_page_config(
     page_title="FinSolve AI Assistant",
